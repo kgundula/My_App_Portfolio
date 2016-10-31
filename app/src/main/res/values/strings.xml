@@ -9,4 +9,8 @@
     <string name="make_your_app_material">make your app material</string>
     <string name="go_ubiquitous">go ubiquitous</string>
     <string name="capstone">capstone</string>
+
+    <!-- Package Names for apps -->
+    <string name="bioscope">za.co.gundula.app.bioscope</string>
+    <string name="stockhawk">com.gundula.android.stockhawk</string>
 </resources>
