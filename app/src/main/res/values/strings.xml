@@ -13,4 +13,6 @@
     <!-- Package Names for apps -->
     <string name="bioscope">za.co.gundula.app.bioscope</string>
     <string name="stockhawk">com.gundula.android.stockhawk</string>
+    <string name="builditbigger">com.udacity.gradle.builditbigger</string>
+    <string name="makeyourappmaterial">com.example.xyzreader</string>
 </resources>

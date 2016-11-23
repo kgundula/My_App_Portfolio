@@ -28,9 +28,11 @@ public class MainActivity extends AppCompatActivity {
                 showToastMessage(app_selected+ getResources().getString(R.string.stock_hawks) + " app!");
                 break;
             case R.id.build_it_bigger:
+                launchApp(getResources().getString(R.string.builditbigger));
                 showToastMessage(app_selected+ getResources().getString(R.string.build_it_bigger) + " app!");
                 break;
             case R.id.make_your_app:
+                launchApp(getResources().getString(R.string.makeyourappmaterial));
                 showToastMessage(app_selected+ getResources().getString(R.string.make_your_app_material) + " app!");
                 break;
             case R.id.go_ubiquitous:
